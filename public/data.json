@@ -1,0 +1,358 @@
+{
+    "123": {
+        "nodes": [
+            {
+                "id": "b93fab4c-2f72-c7f5-c40f-aa6f93b9779e",
+                "x": -333,
+                "y": -140,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "image",
+                "label": "",
+                "image": "img/images.jpg"
+            },
+            {
+                "id": "2383eba4-cf0a-7a7d-4e17-19de74e48d9a",
+                "x": -214,
+                "y": -151,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": ""
+            },
+            {
+                "id": "de66c046-8288-6324-b109-af0d2049ab78",
+                "x": -338,
+                "y": -269,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": ""
+            }
+        ],
+        "edges": [
+            {
+                "from": "b93fab4c-2f72-c7f5-c40f-aa6f93b9779e",
+                "to": "2383eba4-cf0a-7a7d-4e17-19de74e48d9a",
+                "label": "",
+                "style": "dash-line",
+                "id": "563988de-8628-1351-ee19-2bdb9d5ebed8"
+            }
+        ]
+    },
+    "abc": {
+        "nodes": [
+            {
+                "id": "2e29f888-f066-a5f1-fa58-719c95e98bf6",
+                "x": -382,
+                "y": -154.875,
+                "label": "a",
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "url": "",
+                "shape": "ellipse"
+            },
+            {
+                "id": "6813f42a-46ee-2642-e0c9-f5d3e89f81c9",
+                "x": -122,
+                "y": -153.875,
+                "label": "b",
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "url": "",
+                "shape": "ellipse"
+            },
+            {
+                "id": "abee49fc-1c6c-cd8d-559-ef0912e635cc",
+                "x": -268,
+                "y": -57.875,
+                "label": "c",
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "url": "",
+                "shape": "ellipse"
+            }
+        ],
+        "edges": [
+            {
+                "from": "2e29f888-f066-a5f1-fa58-719c95e98bf6",
+                "to": "6813f42a-46ee-2642-e0c9-f5d3e89f81c9",
+                "label": "",
+                "style": "line",
+                "id": "34a890bf-e00d-a848-f9c0-10ab36ed354"
+            }
+        ]
+    },
+    "colors": {
+        "nodes": [
+            {
+                "id": "7581867e-881-2561-1320-298c97614e56",
+                "x": -307,
+                "y": -106,
+                "label": "",
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#bf5012",
+                "url": "",
+                "shape": "ellipse"
+            },
+            {
+                "id": "1eb7aa13-bec3-8c4e-be-211d9732312d",
+                "x": -158,
+                "y": -39,
+                "label": "",
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#d645b7",
+                "url": "",
+                "shape": "ellipse"
+            },
+            {
+                "id": "ec0de29-fe5a-5a0c-b977-603284a8f67a",
+                "x": 18,
+                "y": -137,
+                "label": "",
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#0ed0b7",
+                "url": "",
+                "shape": "ellipse"
+            }
+        ],
+        "edges": []
+    },
+    "test": {
+        "nodes": [
+            {
+                "id": 0,
+                "x": -250,
+                "y": -200,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>0</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            },
+            {
+                "id": 1,
+                "x": -200,
+                "y": -150,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>1</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            },
+            {
+                "id": 2,
+                "x": -150,
+                "y": -200,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>2</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            },
+            {
+                "id": 3,
+                "x": -100,
+                "y": -150,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>3</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            },
+            {
+                "id": 4,
+                "x": -50,
+                "y": -200,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>4</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            },
+            {
+                "id": 5,
+                "x": 0,
+                "y": -150,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>5</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            },
+            {
+                "id": 6,
+                "x": 50,
+                "y": -200,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>6</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            },
+            {
+                "id": 7,
+                "x": 100,
+                "y": -150,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>7</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            },
+            {
+                "id": 8,
+                "x": 150,
+                "y": -200,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>8</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            },
+            {
+                "id": 9,
+                "x": 200,
+                "y": -150,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>9</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            }
+        ],
+        "edges": [
+            {
+                "style": "line",
+                "from": 3,
+                "to": 5,
+                "id": 5,
+                "label": "",
+                "width": 1,
+                "color": "#45b5d6",
+                "title": "<table><tr><td><b>Edge ID:</b></td><td>5</td><tr><td><b>Edge To:</b></td><td>5</td><tr><td><b>Edge From:</b></td><td>3</td><tr><td><b>Edge Label:</b></td><td></td><tr><td><b>Edge Style:</b></td><td>line</td><tr><td><b>Edge Width:</b></td><td>1</td><tr><td><b>Edge Color:</b></td><td>#45b5d6</td></table>"
+            },
+            {
+                "style": "line",
+                "from": 7,
+                "to": 9,
+                "id": 9,
+                "label": "",
+                "width": 1,
+                "color": "#45b5d6",
+                "title": "<table><tr><td><b>Edge ID:</b></td><td>9</td><tr><td><b>Edge To:</b></td><td>9</td><tr><td><b>Edge From:</b></td><td>7</td><tr><td><b>Edge Label:</b></td><td></td><tr><td><b>Edge Style:</b></td><td>line</td><tr><td><b>Edge Width:</b></td><td>1</td><tr><td><b>Edge Color:</b></td><td>#45b5d6</td></table>"
+            }
+        ]
+    },
+    "tovah": {
+        "nodes": [
+            {
+                "id": "199d7a36-4f9a-16d-db7f-6484ef37dd",
+                "x": -337,
+                "y": -1,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#d3d645",
+                "link": "http://en.wikipedia.org/wiki/Banana",
+                "shape": "image",
+                "label": "Bolivia",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>199d7a36-4f9a-16d-db7f-6484ef37dd</td><tr><td><b>Node Label:</b></td><td>Bolivia</td><tr><td><b>Node Link:</b></td><td>http://en.wikipedia.org/wiki/Banana</td><tr><td><b>Node Shape:</b></td><td>image</td><tr><td><b>Node Color:</b></td><td>#d3d645</td><tr><td><b>Node Path:</b></td><td></td></table>",
+                "image": "img/bolivia flag map.png"
+            },
+            {
+                "id": "82089b47-ab28-1d73-3d4c-560235d9ae34",
+                "x": -416,
+                "y": -131,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#c9d1d4",
+                "link": "www.selinc.com",
+                "shape": "database",
+                "label": "Click Me",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>82089b47-ab28-1d73-3d4c-560235d9ae34</td><tr><td><b>Node Label:</b></td><td>Click Me</td><tr><td><b>Node Link:</b></td><td>www.selinc.com</td><tr><td><b>Node Shape:</b></td><td>database</td><tr><td><b>Node Color:</b></td><td>#c9d1d4</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            },
+            {
+                "id": "4e3dcff-76fb-efb9-4545-a4fc7acc494c",
+                "x": -113,
+                "y": -190,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#45b5d6",
+                "link": "",
+                "shape": "ellipse",
+                "label": "311C-2-3_IM_20140730.pdf",
+                "path": "/home/kbueno/Code/sMind/libs/solr/Testing/TestDocs/311C-2-3_IM_20140730.pdf",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>4e3dcff-76fb-efb9-4545-a4fc7acc494c</td><tr><td><b>Node Label:</b></td><td>311C-2-3_IM_20140730.pdf</td><tr><td><b>Node Link:</b></td><td></td><tr><td><b>Node Shape:</b></td><td>ellipse</td><tr><td><b>Node Color:</b></td><td>#45b5d6</td><tr><td><b>Node Path:</b></td><td>/home/kbueno/Code/sMind/libs/solr/Testing/TestDocs/311C-2-3_IM_20140730.pdf</td></table>"
+            },
+            {
+                "id": "d892c68b-40d-5b49-d6ca-81fda7c0f3fe",
+                "x": -351,
+                "y": -71,
+                "allowedToMoveX": true,
+                "allowedToMoveY": true,
+                "color": "#c6d645",
+                "link": "www.google.com",
+                "shape": "circle",
+                "label": "",
+                "path": "",
+                "title": "<table><tr><td><b>Node ID:</b></td><td>d892c68b-40d-5b49-d6ca-81fda7c0f3fe</td><tr><td><b>Node Label:</b></td><td></td><tr><td><b>Node Link:</b></td><td>www.google.com</td><tr><td><b>Node Shape:</b></td><td>circle</td><tr><td><b>Node Color:</b></td><td>#c6d645</td><tr><td><b>Node Path:</b></td><td></td></table>"
+            }
+        ],
+        "edges": [
+            {
+                "from": "199d7a36-4f9a-16d-db7f-6484ef37dd",
+                "to": "d892c68b-40d-5b49-d6ca-81fda7c0f3fe",
+                "label": "Hat",
+                "style": "line",
+                "width": 1,
+                "color": "#070707",
+                "title": "<table><tr><td><b>Edge ID:</b></td><td>9ba331ce-2c73-ca76-7d1a-d54d500e72c7</td><tr><td><b>Edge To:</b></td><td>d892c68b-40d-5b49-d6ca-81fda7c0f3fe</td><tr><td><b>Edge From:</b></td><td>199d7a36-4f9a-16d-db7f-6484ef37dd</td><tr><td><b>Edge Label:</b></td><td>Hat</td><tr><td><b>Edge Style:</b></td><td>line</td><tr><td><b>Edge Width:</b></td><td>1</td><tr><td><b>Edge Color:</b></td><td>#070707</td></table>",
+                "id": "9ba331ce-2c73-ca76-7d1a-d54d500e72c7"
+            }
+        ]
+    }
+}
